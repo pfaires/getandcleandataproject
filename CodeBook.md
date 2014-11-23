@@ -115,7 +115,7 @@ mean_of_angle(X,gravityMean)
 mean_of_angle(Y,gravityMean)
 mean_of_angle(Z,gravityMean)
 
-The original dataset describes the features included in this dataset as follow:
+The original dataset describes the features included in this dataset as follows:
 
 > The features selected for this database come from the accelerometer and gyroscope 3-axial raw signals tAcc-XYZ and tGyro-XYZ. These time domain signals (prefix 't' to denote time) were captured at a constant rate of 50 Hz. Then they were filtered using a median filter and a 3rd order low pass Butterworth filter with a corner frequency of 20 Hz to remove noise. Similarly, the acceleration signal was then separated into body and gravity acceleration signals (tBodyAcc-XYZ and tGravityAcc-XYZ) using another low pass Butterworth filter with a corner frequency of 0.3 Hz. > 
 
