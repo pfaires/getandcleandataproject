@@ -6,7 +6,7 @@ This is the repo for the Getting and Cleaning Data Project.
 The repo shoud contain three files:
 
 README.md - this file
-script.R - the R script used to process the original dataset
+run_analisys.R - the R script used to process the original dataset
 CodeBook.md - the Code book for the produced dataset
 
 How to run the script
