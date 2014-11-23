@@ -1,11 +1,13 @@
 
-=Codebook for Getting and Cleaning Data project=
+Codebook for Getting and Cleaning Data project
+==============================================
 
 This is the codebook for dataset produced as part of course project from "Getting and Cleaning Data" course.
 
 The data for this project was obtained at https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip. Further descrpition of the original dataset is here: http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones
 
-==How the data was processed==
+How the data was processed
+--------------------------
 
 The data was uncompressed at a directory and then:
 
@@ -15,7 +17,8 @@ The data was uncompressed at a directory and then:
 4. Applied descriptive names to collumns of the dataset produced. For the measurement columns, the names were the same as the original dataset (contained in the file "features.txt")
 5. From the data obtained in step 4, created the final dataset with the average of each variable for each activity and each subject.
 
-==Information about the dataset==
+Information about the dataset
+-----------------------------
 
 Each row correspond to a Subject performing an Activity, identified by the SubjectId (first column) and Activity(second column).
 
